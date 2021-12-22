@@ -1,0 +1,20 @@
+---
+title: "Co-authored publications"
+author: "Kelsey Chalmers"
+date: "2021-12-21"
+categories: ["Papers"]
+tags: ["research", "lowvaluecare","overuse"]
+---
+
+This is a list of publications I have co-authored. 
+
+- Pang HY, **Chalmers K**, Landon B, Elshaug AG, Matelski J, Ling V, Krzyzanowska MK, Kulkarni G, Erickson BA, Cram P. [Utilization Rates of Pancreatectomy, Radical Prostatectomy, and Nephrectomy in New York, Ontario, and New South Wales, 2011 to 2018. JAMA network open.](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2778846) 2021 Apr 1;4(4):e215477.
+
+- Badgery-Parker T, Pearson SA, **Chalmers K**, Brett J, Scott IA, Dunn S, Onley N, Elshaug AG. [Low-value care in Australian public hospitals: prevalence and trends over time. BMJ quality & safety.](https://qualitysafety.bmj.com/content/28/3/205.abstract) 2019 Mar 1;28(3):205-14.
+
+- Brownlee S, Chalkidou K, Doust J, Elshaug AG, Glasziou P, Heath I, Nagpal S, Saini V, Srivastava D, **Chalmers K**, Korenstein D. [Evidence for overuse of medical services around the world. The Lancet](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708862/). 2017 Jul 8;390(10090):156-68.
+
+- Brett J, Elshaug AG, Bhatia RS, **Chalmers K**, Badgery-Parker T, Pearson SA. [A methodological protocol for selecting and quantifying low-value prescribing practices in routinely collected data: an Australian case study. Implementation Science.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415810/) 2017 Dec;12(1):1-3.
+
+
+

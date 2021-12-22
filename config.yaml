@@ -1,0 +1,66 @@
+baseURL: https://kchalmers.netlify.app
+languageCode: en-us
+title: kelsey chalmers
+theme: hugo-theme-cactus
+copyright: Kelsey Chalmers
+disqusShortname: example
+menu:
+  main:
+    - name: home
+      url: /
+      weight: 1
+    - name: blog & papers
+      url: /posts
+      weight: 2
+    - name: tags
+      url: /tags
+      weight: 3
+    - name: about
+      url: /about
+      weight: 4
+markup:
+  highlight:
+    codeFences: yes
+    guessSyntax: no
+    hl_Lines: ''
+    lineNoStart: 1
+    lineNos: yes
+    lineNumbersInTable: no
+    noClasses: yes
+    style: dracula
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 4
+    ordered: no
+    startLevel: 2
+params:
+  colortheme: white
+  comments:
+    cactuscomments:
+      siteName: your_cactus_comments_sitename
+    enabled: no
+    engine: cactus_comments
+    utterances:
+      label: hugo-site-name
+      repo: <github_username>/<github_reponame>
+      theme: github-light
+  dateFormat: '2006-01-02'
+  description: I am a data scientist and health services researcher, interested in all things R, SAS, and health care systems.
+  googleAnalyticsAsync: yes
+  mainSection: posts
+  postsOnHomePage: 5
+  projectsUrl: https://github.com/kelsey92
+  rss: yes
+  show_updated: yes
+  showAllPostsArchive: no
+  showAllPostsOnHomePage: no
+  showProjectsList: no
+  showReadTime: yes
+  social:
+    - link: https://github.com/kelsey92
+      name: github
+    - link: https://www.linkedin.com/in/kelsey-chalmers-health/
+      name: linkedin
+    - link: kelsey.chalmers1@gmail.com
+      name: email
+  tagsOverview: no

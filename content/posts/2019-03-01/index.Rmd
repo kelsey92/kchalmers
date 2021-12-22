@@ -1,0 +1,22 @@
+---
+title: "Measuring 21 low-value hospital procedures: claims analysis of Australian private health insurance data (2010–2014)"
+author: "Kelsey Chalmers, Sallie-Anne Pearson, Tim Badgery-Parker, Jonathan Brett, Ian A Scott, Adam G Elshaug"
+date: 2019-03-01
+categories: ["Papers"]
+tags: ["research", "lowvaluecare"]
+---
+
+This was the main results article from my PhD thesis. 
+[BMJ Open](https://bmjopen.bmj.com/content/9/3/e024142.abstract).
+
+> Objective: To examine the prevalence, costs and trends (2010–2014) for 21 low-value inpatient procedures in a privately insured Australian patient cohort.
+
+> Design: We developed indicators for 21 low-value procedures from evidence-based lists such as Choosing Wisely, and applied them to a claims data set of hospital admissions. We used narrow and broad indicators where multiple low-value procedure definitions exist.
+
+> Setting and participants: A cohort of 376 354 patients who claimed for an inpatient service from any of 13 insurance funds in calendar years 2010–2014; approximately 7% of the privately insured Australian population.
+
+> Main outcome measures: Counts and proportions of low-value procedures in 2014, and relative change between 2010 and 2014. We also report both the Medicare (Australian government) and the private insurance financial contributions to these low-value admissions.
+
+> Results: Of the 14 662 patients with admissions for at least 1 of the 21 procedures in 2014, 20.8%–32.0% were low-value using the narrow and broad indicators, respectively. Of the 21 procedures, admissions for knee arthroscopy were highest in both the volume and the proportion that were low-value (1607–2956; 44.4%–81.7%). Seven low-value procedures decreased in use between 2010 and 2014, while admissions for low-value percutaneous coronary interventions and inpatient intravitreal injections increased (51% and 8%, respectively). For this sample, we estimated 2014 Medicare contributions for admissions with low-value procedures to be between $A1.8 and $A2.9.million, and total charges between $A12.4 and $A22.7.million.
+
+> Conclusions: The Australian federal government is currently reviewing low-value healthcare covered by Medicare and private health insurers. Estimates from this study can provide crucial baseline data and inform design and assessment of policy strategies within the Australian private healthcare sector aimed at curtailing the high volume and/or proportions of low-value procedures.

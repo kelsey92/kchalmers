@@ -1,0 +1,18 @@
+---
+title: "Comparability of online out-of-pocket tools from Australian private health funds"
+author: "Kelsey Chalmers, Adam Elshaug, Shaun Larkin"
+date: 2019-11-13
+categories: ["Papers"]
+tags: ["research", "outofpocketcosts"]
+---
+
+For this paper, I built a webscraper using R and collected the published price information for health care services which three Australian private health funds had published. 
+[Australian Health Review.](https://www.publish.csiro.au/ah/ah19109)
+
+> Objective: The aims of this study were to compare and contrast the information three Australian private health insurance funds (HCF, Bupa and Medibank) have provided on their online out-of-pocket cost tools and to consider the implications this has for price transparency in Australia.
+
+>Methods: Website data were downloaded from HCF, Bupa and Medibank on 18 February 2019. The information and statistics provided on these pages were reviewed, and the procedures compared across funds if their pages had referred to the same Medicare Benefits Schedule (MBS) item(s). Information was extracted regarding descriptions of the claims data used, the types of statistics provided, the out-of-pocket estimates, the total procedure cost, the MBS items referenced and the assumptions the funds described on their pages.
+
+> Results: HCF specified the MBS items used to select the claims data for their estimates, whereas Bupa and Medibank only referred to common MBS items associated with the procedures. On average, HCF had 1.44 more MBS items listed than Bupa and 2.08 more than Medibank. The funds organised procedures differently, such as HCF providing separate cost estimates for vaginal, abdominal and keyhole hysterectomy compared with Medibank’s single estimate for hysterectomy costs.
+
+> Conclusions: These funds have started to address the need for transparent out-of-pocket cost information, but the differences across these pages demonstrate complexities and the potential obfuscation of cost data.

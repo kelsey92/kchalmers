@@ -1,0 +1,15 @@
+---
+title: "Crowdfunding: what does it say about Australian health care?"
+author: "Kelsey Chalmers"
+date: 2019-08-12
+categories: ["Blog"]
+tags: ["outofpocketcosts"]
+---
+
+> "SOMETHING is seriously wrong if a terminally ill girl with a brain tumour has to raise $120 000 to have surgery,” said Professor Henry Woo in a tweet in May 2019. “If it was a valid surgery, it could/should be performed in the public system under Medicare."
+
+> Private hospital surgeries with particular specialists are not the only online Australian crowdfunding campaigns for health care-related expenses; other examples include crowdfunding for overseas treatments ([here](https://www.gofundme.com/f/overseas-treatment-for-kristian-hoogenkamp)), experimental or unapproved therapies ([here](https://www.gofundme.com/f/help-support-the-love-of-my-life-bowel-cancer)), or for general support with associated family costs ([here](https://www.gofundme.com/f/help-support-nakita-and-her-young-family)). Why is this the case? In the US, GoFundMe — the most popular crowdfunding website — reports that about a third of their campaigns are for health care-related costs, boasting a total of USD$800 million raised per year. This is likely due to the number of uninsured patients (44 million at last count) and the discourse on high cost medical care in the US.
+
+> Walter White Jr even set up a crowdfunding website for his father’s cancer treatment in the 2009 season of Breaking Bad.
+
+Continued in [MJA Insight](https://insightplus.mja.com.au/2019/31/crowdfunding-what-does-it-say-about-australian-health-care/).

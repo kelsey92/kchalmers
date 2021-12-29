@@ -1,0 +1,39 @@
+---
+title: "R packages that made my life easier in 2021"
+author: "Kelsey Chalmers"
+date: 2021-12-29
+categories: ["Blog"]
+tags: ["R","rstats"]
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<p>I have been using R for quite a while now. I remember using the original R console and the <code>t.test()</code> function in my first Stats class, and I also remember when our excited Professor showed us his discovery that in RStudio you could actually click to move your cursor <em>within</em> a command you were typing (the R console only let you move the cursor using the arrow keys).</p>
+<p>I love discovering a new package (usually through #rstats twitter) that revolutionizes my work flow. Just like my Professor, I wanted to share my discoveries this year that made using R more enjoyable.</p>
+<p><a href="https://purrr.tidyverse.org/"><strong>The <code>purrr</code> package</strong></a></p>
+<p>It wasn’t until I saw some of the code shared from #RecreationThursday on twitter that <code>purrr::pmap()</code> really clicked for me. Now I write functions for <em>everything</em>. No more repeated <code>ggplot() +</code> lines.</p>
+<center>
+<img src="https://c.tenor.com/wEdD1sjCqhoAAAAC/angry-birds-pluck-my-life.gif" />
+Using <code>purrr::pluck</code> on all my lists.
+</center>
+<p><a href="https://pins.rstudio.com/"><strong>The <code>pins</code> package</strong></a></p>
+<p>I do not think I’ve unlocked the full potential of the <code>pins</code> package yet, but I have used it to automatically create different versions of outputs that I need to use across different sessions or share with others. I like that you can add metadata to the file when you save it, and that the folders where the data is saved can be copied and moved without using R. I really like that I never have to think about accidentally saving over a previous version of an output or creating different file names for the same output.</p>
+<p><a href="https://www.danieldsjoberg.com/gtsummary/"><strong>The <code>gtsummary</code> package</strong></a></p>
+<p>Anyone who has written a research article in Word knows the painful process of creating tables. With the <code>gtsummary</code> package (specifically <code>tbl_summary()</code> and <code>tbl_regression()</code>) I feel like I have outsourced 95% of this stress and time. These table outputs are just <em>beautiful</em>.</p>
+<center>
+<img src="https://i.kym-cdn.com/photos/images/original/001/168/794/d1d.gif" style="width:50.0%" />
+How I feel about the <code>gtsummary</code> tables.
+</center>
+<p><strong>The <a href="https://googlesheets4.tidyverse.org/"><code>googlesheets4</code></a> and <a href="https://ycphs.github.io/openxlsx/"><code>openxlsx</code></a> packages</strong></p>
+<p>Sharing data and tables with team members who use Google sheets or Excel was technically easy, but if you’re like me you like to share nicely formatted spreadsheets and that formatting can eat up a lot of time. All of this formatting is now automated using <code>openxlsx</code>, and I can read and write data from Google sheets directly using <code>googlesheets4</code>.</p>
+<p><strong><a href="https://ggforce.data-imaginist.com/">The <code>ggforce</code> package</a></strong></p>
+<p>All of <code>ggforce</code> is fantastic, but I really want to highlight the sina plot (<code>geom_sina()</code>) as my favorite data visualization tools of the year. It’s great for quickly viewing variable densities and outliers (<a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1366914">here</a> is a paper from the sina plot creators on its benefits).</p>
+<p>Also, <code>geom_circle()</code> in the <code>ggforce</code> package is great! I can plot a circle with just the center point and the radius, which is easier and more intuitive to me compared to all the other options (as demonstrated on this stack overflow <a href="https://stackoverflow.com/questions/6862742/draw-a-circle-with-ggplot2">page</a>).</p>
+<p><strong><a href="https://rstudio.github.io/leaflet/">The <code>leaflet</code> package</a></strong></p>
+<p>Oh, <code>leaflet()</code>, what a simple and lovely way to create maps. I’ve been using this longer than this year, but have started to really appreciate it more in the past few months. This is one of those packages that after you create something with it, you can’t help thinking <em>how is this free?</em></p>
+<center>
+<img src="https://media1.giphy.com/media/Kx7HO28xRu1cG8S3GB/giphy.gif?cid=ecf05e47ab12jnuyhxbm5xo9y4svt5bhuuvpxeh36ziuvz3t&amp;rid=giphy.gif&amp;ct=g" style="width:60.0%" />
+Joey would appreciate a <code>leaflet()</code> map.
+</center>
+<p>Here’s to all the amazing authors and the R community for these packages, and to the future discoveries in 2022!</p>

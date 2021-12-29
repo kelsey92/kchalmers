@@ -1,0 +1,54 @@
+---
+title: "R packages that made my life easier in 2021"
+author: "Kelsey Chalmers"
+date: 2021-12-29
+categories: ["Blog"]
+tags: ["R","rstats"]
+---
+
+I have been using R for quite a while now. I remember using the original R console and the `t.test()` function in my first Stats class, and I also remember when our excited Professor showed us his discovery that in RStudio you could actually click to move your cursor *within* a command you were typing (the R console only let you move the cursor using the arrow keys).
+
+I love discovering a new package (usually through #rstats twitter) that revolutionizes my work flow. Just like my Professor, I wanted to share my discoveries this year that made using R more enjoyable.
+
+[**The `purrr` package**](https://purrr.tidyverse.org/)
+
+It wasn't until I saw some of the code shared from #RecreationThursday on twitter that `purrr::pmap()` really clicked for me. Now I write functions for *everything*. No more repeated `ggplot() +` lines.
+
+<center>
+![](https://c.tenor.com/wEdD1sjCqhoAAAAC/angry-birds-pluck-my-life.gif)
+Using `purrr::pluck` on all my lists.
+</center>
+
+[**The `pins` package**](https://pins.rstudio.com/)
+
+I do not think I've unlocked the full potential of the `pins` package yet, but I have used it to automatically create different versions of outputs that I need to use across different sessions or share with others. I like that you can add metadata to the file when you save it, and that the folders where the data is saved can be copied and moved without using R. I really like that I never have to think about accidentally saving over a previous version of an output or creating different file names for the same output. 
+
+[**The `gtsummary` package**](https://www.danieldsjoberg.com/gtsummary/)
+
+Anyone who has written a research article in Word knows the painful process of creating tables. With the `gtsummary` package (specifically `tbl_summary()` and `tbl_regression()`) I feel like I have outsourced 95% of this stress and time. These table outputs are just *beautiful*.  
+
+<center>
+![](https://i.kym-cdn.com/photos/images/original/001/168/794/d1d.gif){width=50%}
+How I feel about the `gtsummary` tables.
+</center>
+
+**The [`googlesheets4`](https://googlesheets4.tidyverse.org/) and [`openxlsx`](https://ycphs.github.io/openxlsx/) packages**
+
+Sharing data and tables with team members who use Google sheets or Excel was technically easy, but if you're like me you like to share nicely formatted spreadsheets and that formatting can eat up a lot of time. All of this formatting is now automated using `openxlsx`, and I can read and write data from Google sheets directly using `googlesheets4`.
+
+**[The `ggforce` package](https://ggforce.data-imaginist.com/)**
+
+All of `ggforce` is fantastic, but I really want to highlight the sina plot (`geom_sina()`) as my favorite data visualization tools of the year. It's great for quickly viewing variable densities and outliers ([here](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1366914) is a paper from the sina plot creators on its benefits).  
+
+Also, `geom_circle()` in the `ggforce` package is great! I can plot a circle with just the center point and the radius, which is easier and more intuitive to me compared to all the other options (as demonstrated on this stack overflow [page](https://stackoverflow.com/questions/6862742/draw-a-circle-with-ggplot2)).
+
+**[The `leaflet` package](https://rstudio.github.io/leaflet/)**
+
+Oh, `leaflet()`, what a simple and lovely way to create maps. I've been using this longer than this year, but have started to really appreciate it more in the past few months. This is one of those packages that after you create something with it, you can't help thinking *how is this free?* 
+
+<center>
+![](https://media1.giphy.com/media/Kx7HO28xRu1cG8S3GB/giphy.gif?cid=ecf05e47ab12jnuyhxbm5xo9y4svt5bhuuvpxeh36ziuvz3t&rid=giphy.gif&ct=g){width=60%}
+Joey would appreciate a `leaflet()` map.
+</center>
+
+Here's to all the amazing authors and the R community for these packages, and to the future discoveries in 2022! 
